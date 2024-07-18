@@ -1,6 +1,3 @@
-Here's a sample `README.md` for your movie recommendation system:
-
----
 
 # Movie Recommendation System
 
